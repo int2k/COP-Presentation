@@ -67,19 +67,20 @@ Low-code adalah sebuah model pengembangan aplikasi yang memungkinkan pembuatan k
     - User-Centric: Fokus ke pengalaman pengguna dan fungsi aplikasi.
 
 ---
-
+<!-- _class: left_aligned -->
 - **Contoh Low Code Platform**
-
-**Adalo** 
-**Bubble**
-**Airtable**
-**AppSheet**
+  - **Adalo** 
+  - **Bubble**
+  - **Airtable**
+  - **AppSheet**
 
 ---
 
-<!-- _class: section_split -->
+**Tantangan dan Isu**
+- Learning Curve: Bahkan dengan minim penulisan kode, pengetahuan tentang platform yang dipakai tetap di butuhkan.
+- Scalability: Aplikasi yang kompleks bisa dengan cepat melampaui kemampuan platform.
+- Vendor Lock-in: Apa yang di bangun hanya bisa di gunakan pada platform itu saja.
 
-# Komparasi Model Pengembangan
 
 ---
 
@@ -102,25 +103,6 @@ Contoh: Zapier, Appian
 Platform ini memberikan user kemampuan untuk membuat aplikasi dengan database kustom dan dokumen interaktif tanpa koding.
 Contoh: Airtable
 
-
----
-
-<!-- _class: section_split -->
-
-# Future Trends
-
---- 
-
-- AI Integration: Automation of more complex tasks.
-- Enhanced Customization: Balancing simplicity with advanced features.
-- Integration Capabilities: More seamless connections with external systems.
-
----
-
-**Conclusion**
-- Recap the benefits of low-code and no-code platforms.
-- Emphasize their role in democratizing software development.
-- Encourage exploration and experimentation with these platforms.
 
 ---
 

@@ -50,3 +50,8 @@ section.section_split h1::after {
     padding-top: 3px;
     border-bottom: 24px solid #3465a4;
 }
+
+section.left_aligned {
+    text-align: left;
+    align-content: flex-start;
+}
