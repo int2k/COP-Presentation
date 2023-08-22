@@ -1,5 +1,5 @@
 {
     "markdown.marp.themes": [
-        "themes/gdn/theme.css"
+        "slides/themes/gdn/theme.css"
     ]
 }
